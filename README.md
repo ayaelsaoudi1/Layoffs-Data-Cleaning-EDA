@@ -1,6 +1,6 @@
 # Layoffs Data Cleaning and Exploratory Data Analysis (EDA) Using MySQL
 
-This project focuses on cleaning and performing exploratory data analysis (EDA) on a dataset containing details of company layoffs from 2020 to 2023, sourced from the [Kaggle](https://www.kaggle.com/datasets/swaptr/layoffs-2022) dataset titled "Layoffs 2022". The dataset includes various attributes such as company name, location, industry, and total layoffs, with a total of 2,362 rows, each representing a unique layoff event across different companies and industries globally.
+This project focuses on cleaning and performing exploratory data analysis (EDA) on a dataset containing details of global companies' layoffs from 2020 to 2023, sourced from the [Kaggle](https://www.kaggle.com/datasets/swaptr/layoffs-2022) dataset titled "Layoffs 2022". The dataset includes various attributes such as company name, location, industry, and total layoffs, with a total of 2,362 rows, each representing a unique layoff event across different companies and industries globally.
 
 ## Objective
 The main objectives of this project were:
